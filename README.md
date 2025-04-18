@@ -11,10 +11,6 @@ This repository contains:
 
 ### How to use it
 
-This is a technical codebase designed for researchers and developers familiar with Python and PyTorch.
-
-### Setup
-
 1. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/hcquery.git
