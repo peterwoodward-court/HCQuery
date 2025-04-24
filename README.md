@@ -47,7 +47,7 @@ This repository contains:
  
  See `requirements.txt` for exact versions
  
- ### Caveats Clarify the model’s scope (e.g., trained on specific population, device, setting).
+ ### Caveats
 
  This tool is for exploratory research only and is not intended for clinical use.
  
