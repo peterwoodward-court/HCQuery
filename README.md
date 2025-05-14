@@ -2,7 +2,7 @@
 
 ### What it does
 
-HCQuery is a predictive model for detecting hydroxychloroquine (HCQ) retinopathy using Optical Coherence Tomography (OCT) B-scans. It takes an OCT image as input and outputs a **Likelihood of Retinopathy Score (LRS)** — a continuous value representing the model's confidence in the presence of retinopathy.
+HCQuery is a predictive model for detecting hydroxychloroquine (HCQ) retinopathy using Optical Coherence Tomography (OCT) B-scans. It takes an OCT image as input and outputs a **Likelihood of Retinopathy Score (LRS)**, a continuous value representing the model's confidence in the presence of retinopathy.
 
 This repository contains:
 - The trained PyTorch model (`hcquery_model.pt`)
