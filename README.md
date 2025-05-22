@@ -13,7 +13,7 @@ This repository contains:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/hcquery.git
+   git clone https://github.com/peterwoodward-court/hcquery.git
    cd hcquery
 
 2. Install dependencies:
