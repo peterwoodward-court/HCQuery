@@ -53,7 +53,8 @@ This repository contains:
  
  ### Citation
  
- Citation details will be added upon publication. For now, please cite the repository URL if using this code in academic work.
+ Woodward-Court, Peter, et al. "Deep-learning algorithm for the diagnosis and prediction of hydroxychloroquine retinopathy: An International, multi-institutional study." 
+ Ophthalmology Retina (2025). https://doi.org/10.1016/j.oret.2025.06.003
 
  ### License
 
